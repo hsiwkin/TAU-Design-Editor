@@ -1,6 +1,0 @@
-(function () {
-    /**
-     * Add App logic
-     * **/
-
-}());

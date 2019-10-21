@@ -1,0 +1,3 @@
+[submodule "tau-component-packages"]
+	path = tau-component-packages
+	url = https://github.sec.samsung.net/HighPerformanceWeb/tau-component-packages.git
